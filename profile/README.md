@@ -1,4 +1,4 @@
-### Welcome to NeurlaDreams Wallpaper for MacOS
+### Welcome to NeuralDreams Wallpaper for MacOS
 
 Fast, lite, amazing.
 
