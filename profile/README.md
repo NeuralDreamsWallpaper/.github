@@ -49,10 +49,10 @@ There's a quick select of the latest backgrounds or you can bring up the full Li
   Cmd+Shift+P toggles play/pause system-wide, even from other apps
 
   ## Menu Bar Only
-  No Dock icon, no clutter — lives quietly in your menu bar
+  No Dock icon, no clutter: lives quietly in your menu bar
 
   ## Auto-Start
-  Launch automatically on login — set it and forget it
+  Launch automatically on login - set it and forget it
 
   ## Remembers Your Setup
   Wallpaper, volume, and recent selections persist across restarts
