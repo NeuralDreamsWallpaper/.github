@@ -17,7 +17,7 @@ brew install --cask neuraldreams-wallpaper
 
 ## Or, go download the app directly
 
-<insert download link?
+[Download Now Latest Version](https://github.com/NeuralDreamsWallpaper/app/releases/tag/v0.4.3-beta)
 
 
 
