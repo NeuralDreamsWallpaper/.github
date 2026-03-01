@@ -1,4 +1,4 @@
-### Welcome to NeuralDreams Wallpaper for MacOS
+### Welcome to NeuralDreams Wallpaper for MacOS - Animated Wallpapers
 
 Fast, lite, amazing.
 
@@ -6,7 +6,7 @@ Get it today.
 
 <img width="712" height="480" alt="NeuralDreamsWallpaper MacOS Splash Screen" src="https://github.com/user-attachments/assets/e863ff86-abcd-4f44-9a10-ec354ae6c930" />
 
-### Digitally Signed, installs in a jiffy.
+### Digitally Signed, installs in a jiffy. Use any MP4. Or use high quality ones.
 
 ## One line install with homebrew
 ```
